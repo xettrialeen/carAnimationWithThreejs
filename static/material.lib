@@ -1,0 +1,92 @@
+# Aspose.3D Wavefront OBJ Exporter
+# Copyright 2004-2022 Aspose Pty Ltd.
+# File created: 05/24/2022 11:06:03
+
+newmtl wing_design
+	Ka 0 0 0
+	Kd 0.8631572723388672 0.1119324415922165 0.10461649298667908
+	d 1
+	Tr 0
+	illum 2
+newmtl glass_texture
+	Ka 0 0 0
+	Kd 0.27279737591743468 0.49655213952064512 0.59770113229751584
+	d 1
+	Tr 0
+	illum 2
+newmtl engine_texture
+	Ka 0 0 0
+	Kd 0.61049556732177736 0.60382741689682008 0.577580451965332
+	d 1
+	Tr 0
+	illum 2
+newmtl wings
+	Ka 0 0 0
+	Kd 0.55201143026351928 0.52099567651748656 0.48514991998672488
+	d 1
+	Tr 0
+	illum 2
+newmtl head_light
+	Ka 0 0 0
+	Kd 0.5 0.5 0.5
+	d 1
+	Tr 0
+	illum 2
+newmtl lambert1
+	Ka 0 0 0
+	Kd 0.2794620096683502 0.99099999666213984 0.99099999666213984
+	d 1
+	Tr 0
+	illum 2
+newmtl wing_holder
+	Ka 0 0 0
+	Kd 0.08228269964456558 0.08437620848417282 0.08865558356046677
+	d 1
+	Tr 0
+	illum 2
+newmtl whit_set_colours
+	Ka 0.12643678486347198 0.12643678486347198 0.12643678486347198
+	Kd 1 0.95076906681060784 0.87199997901916496
+	d 1
+	Tr 0
+	illum 2
+newmtl front_design
+	Ka 0 0 0
+	Kd 0.07818741351366043 0.08650045096874237 0.09305896610021592
+	d 1
+	Tr 0
+	illum 2
+newmtl tires
+	Ka 0 0 0
+	Kd 0.0423114076256752 0.04518620669841766 0.04091519489884376
+	d 1
+	Tr 0
+	illum 2
+newmtl aiStandardSurface1
+	Ka 0.2 0.2 0.2
+	Kd 0.8 0.8 0.8
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl right_part_glass
+	Ka 0 0 0
+	Kd 0.45641100406646728 0.8307698965072632 1
+	d 1
+	Tr 0
+	illum 2
+newmtl aiStandardSurface1
+	Ka 0.2 0.2 0.2
+	Kd 0.8 0.8 0.8
+	d 1
+	Tr 0
+	illum 2
+	Ks 0.2 0.2 0.2
+	Ns 20
+newmtl rims
+	Ka 0 0 0
+	Kd 0.30054381489753724 0.30054381489753724 0.25015833973884584
+	d 1
+	Tr 0
+	illum 2

@@ -1,0 +1,144 @@
+* {
+  margin: 0;
+  padding: 0;
+  // box-sizing: border-box;
+  /* overflow: hidden; */
+  /* background-color: #ffffff; */
+  font-family: "Poppins", sans-serif;
+}
+
+html {
+  background-color: #111111;
+}
+
+html,
+body {
+//   overflow: hidden;
+}
+
+// body {
+
+//     width: 100vw;
+//     height: 100%;
+//     margin: 0;
+
+//     // overflow-y: scroll;
+//     // overflow-x: hidden;
+//   }
+
+
+
+.webgl {
+  position: fixed;
+  top: 0;
+  left: 0;
+  outline: none;
+}
+
+//   h1{
+//       font-size: 177.42px ;
+
+//       background: linear-gradient(to right, #494964, #6f6f89);
+//       -webkit-background-clip: text;
+//       -webkit-text-fill-color: transparent;}
+
+section {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+  position: relative;
+  font-family: "Cabin", sans-serif;
+  color: #ffeded;
+  text-transform: uppercase;
+  font-size: 7vmin;
+  padding-left: 10%;
+  padding-right: 10%;
+//   overflow-y: scroll;
+}
+
+section:nth-child(odd) {
+  justify-content: flex-end;
+}
+//   section {
+
+//     width: 100%;
+//     height: 210vh;
+//     padding: 0px 70px;
+
+//   }
+
+//   h1{
+//       font-size: 177.42px ;
+
+//       background: linear-gradient(to right, #494964, #6f6f89);
+//       -webkit-background-clip: text;
+//       -webkit-text-fill-color: transparent;}
+
+//   h2{
+//    font-size:67.77px;
+//    color: #fefefe;
+//   }
+//   p{
+
+//       font-size:25.89px;
+//       color: #fefefe;
+//       opacity: 50%;
+
+//   }
+//   .scene.one {
+//     width: 100%;
+//     height: 100%;
+//   position: fixed;
+//     z-index: 999;
+//   }
+
+//   .section-one {
+//     background-color: #000000;
+//     color: #fefefe;
+//     height: 240vh;
+//     h2{
+//         padding-top: 20px;
+//         position: sticky;
+
+//         top: 200px;
+//     }
+//     p{
+//         position: sticky;
+//         top: 400px;
+
+//     }
+
+//   }
+
+//   .section-two {
+//     background-color: #5800FF;
+//     height: 350vh;
+//     h2{
+//         padding-top: 300px;
+//     }
+
+//   }
+
+//   .section-three {
+//     background-color: #E900FF;
+//     h2{
+//         padding-top: 200px;
+//     }
+
+//   }
+
+//   .section-four {
+//     background-color: #FFC600;
+//     h2{
+//         padding-top: 200px;
+//     }
+
+//   }
+
+//   .section-five {
+//     background-color: grey;
+//     h2{
+//         padding-top: 200px;
+//     }
+
+//   }
